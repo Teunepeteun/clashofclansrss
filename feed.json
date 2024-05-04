@@ -1,0 +1,24 @@
+{
+    "rss": {
+        "channel": {
+            "title":"Speedwagon Clan Mail",
+            "link": "",
+            "description": "All important clan information",
+            "item": [
+                {
+                    "title": "New clan mail",
+                    "description": "Please attack your own number in CWL!!!",
+                    "link": "",
+                    "author": "pikabeks"
+                    
+                },
+                {
+                    "title": "New clan mail",
+                    "description": "Upgrade your hero before cwl!",
+                    "link": "",
+                    "author": "pikabeks"
+                }
+            ]
+        }
+    }
+}
